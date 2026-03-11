@@ -33,4 +33,4 @@ You can change the theme by the clicking on `Theme` in left corner.
 </p>
 
 ## *Author Name*
-[Vikrant](https://github.com/vikrant-v28)
+[Yamini K](https://github.com/yaminik2003)
